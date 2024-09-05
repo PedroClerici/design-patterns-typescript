@@ -1,0 +1,17 @@
+{
+  "name": "desing-patterns-typescript",
+  "version": "1.0.0",
+  "description": "Design patterns examples in typescript.",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "tsx ./src/index.ts"
+  },
+  "author": "Pedro Clerici",
+  "license": "ISC",
+  "devDependencies": {
+    "@biomejs/biome": "1.8.3",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4"
+  }
+}
